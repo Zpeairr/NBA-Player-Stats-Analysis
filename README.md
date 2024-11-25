@@ -1,5 +1,4 @@
 # NBA-Player-Stats-Analysis
-Giriş
 Projenin Amacı:
 Bu proje, 2023-24 NBA sezonu oyuncu istatistiklerini analiz ederek yaş, oynama süresi ve başarılı şut yüzdesi (FG%) arasındaki ilişkiyi incelemeyi amaçlamaktadır. Araştırmada, yaş ve oynama süresinin şut başarısını etkileyip etkilemediği ve bu değişkenler arasında anlamlı bir ilişkinin olup olmadığı araştırılmıştır.
 
